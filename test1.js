@@ -1,4 +1,4 @@
-(function main(React, ReactNative,NativeBase,componentState, styles, require) {
+(function main(React, ReactNative,NativeBase,componentState, styles, require, loginCall, validateUser ) {
     'use strict';
 
     Object.defineProperty(exports, "__esModule", {
